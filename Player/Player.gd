@@ -6,7 +6,7 @@ onready var Decal = load("res://Player/Decal.tscn")
 var speed = 5
 var gravity = -8.0
 var direction = Vector3()
-var mouse_sensitivity = 0.002
+var mouse_sensitivity = 0.001
 var mouse_range = 1.2
 var velocity = Vector2.ZERO
 
